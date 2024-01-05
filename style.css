@@ -1,0 +1,51 @@
+body {
+    background-color: #fff5e7;
+    font-family: 'Roboto', sans-serif;
+    color: #25265e;
+}
+
+h1 {
+    background-color: #1b9255;
+}
+
+#myname {
+    color: #ae460a;
+    font-size: 30px;
+    font-family: 'Archivo', sans-serif;
+}
+
+tr {
+    background-color: #58b4e3;
+}
+
+.skills-table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+.skills-table tr {
+    height: 50px;
+    color: rgba(37, 38, 94, 0.87);
+    font-size: 18px;
+}
+
+.skills-table td {
+    border: 1px solid #25265e;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
+
+form {
+    border: 2px solid slateblue;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
